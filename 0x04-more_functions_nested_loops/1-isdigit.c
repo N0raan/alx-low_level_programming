@@ -2,15 +2,15 @@
 #include "main.h"
 
 /**
-*main - check the code
-*0 for non digit
-*1 for digits
+*_isdigit - check the code
+*Returns 0 for non digit
+*Returns 1 for digits
 */
 
-int main(void)
+int _isdigit(c)
 {
 char c;
-if (_isdigit(c) == true)
+if (c > 0 && c < 9)
 {
 return (1);
 }
