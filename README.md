@@ -1,1 +1,1 @@
-this repo is for 0x04. C - More functions, more nested loops 
+this repo is for C programming low level 

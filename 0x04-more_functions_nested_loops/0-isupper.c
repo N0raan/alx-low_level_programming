@@ -1,6 +1,10 @@
 #include <stdio.h>
-#include <stdbool.h>
-#include 'main.h'
+#include "main.h"
+
+/**
+* main - causes an infinite loop
+* Return: 0
+*/
 
 int main(void)
 {
