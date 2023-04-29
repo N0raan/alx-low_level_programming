@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include 'main.h'
 
-int main()
+int main(void)
 {
 char c;
 c='A';
