@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
-* reset_to_98
-* description: this method set 98 as value for the variable
+* reset_to_98 - reset value to 98
+* n is integer pointer
 * Always return = 0
 */
 
