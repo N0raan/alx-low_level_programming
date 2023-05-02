@@ -12,8 +12,6 @@ int _strlen(char *s)
 int i;
 for (i = 0; s[i] != '\0'; i++)
 {
-int sum;
-sum = sum + i;
 }
-return (sum);
+return (i);
 }
