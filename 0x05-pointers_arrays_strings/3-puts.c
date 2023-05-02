@@ -1,10 +1,10 @@
-#include "holberton.h"
-#include "2-strlen.c"
+#include <stdio.h>
+#include "main.h"
 /**
- * _puts - puts a string
- *
- * @str: string to print
- */
+* _puts - puts a string
+*
+* @str: string to print
+*/
 
 void _puts(char *str)
 {
