@@ -5,7 +5,7 @@
 /**
  * create_array - creates an array of chars
  * @c: array name
- * @size: the size of the memory 
+ * @size: the size of the memory
  *
  * Return: 1 in success , 0 if array empty
  */
@@ -19,5 +19,4 @@ while (size--)
 	n[size] = c;
 
 return (n);
-}
-	
+}	
