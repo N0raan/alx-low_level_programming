@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * free_grid - free the grid
