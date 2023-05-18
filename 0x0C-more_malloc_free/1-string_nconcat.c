@@ -3,10 +3,11 @@
 #include "main.h"
 
 /**
- * *string_nconcat - function that concatenates two strings
+ * string_nconcat - function that concatenates two strings
  * @s1: first array of char type
  * @s2: second array of char type
  * @n: integer
+ * Return: pointer
  */
 
 char *string_nconcat(char *s1, char *s2, unsigned int n)
