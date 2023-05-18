@@ -1,1 +1,1 @@
-this repo is for C programming low level 
+this directory is for pointers tasks in c
